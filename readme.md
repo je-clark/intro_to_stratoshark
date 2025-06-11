@@ -16,4 +16,4 @@ And finally, any study of system calls requires a reference document for all the
 
 ## Conclusion
 
-I hope this becomes a useful resource for people learning to use Stratoshark. If you want to learn even more, you can find me, and several other Stratoshark enthusiasts on the Wireshark Discord server. You can also find my contact information at [www.jeclark.net](www.jeclark.net).
+I hope this becomes a useful resource for people learning to use Stratoshark. If you want to learn even more, you can find me and several other Stratoshark enthusiasts on the Wireshark Discord server. You can also find my contact information at [www.jeclark.net](www.jeclark.net).
